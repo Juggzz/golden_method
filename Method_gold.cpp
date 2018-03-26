@@ -138,7 +138,5 @@ int main()
 	cout << fib_res << endl;
 	cout << f(gold) << "\t" << f(fib_res);
 
-	int k;
-	cin >> k;
 	return 0;
 }
